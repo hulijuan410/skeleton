@@ -1,6 +1,6 @@
 {
   "name": "react-skeleton-component",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "骨架屏组件",
   "main": "dist/index.js",
   "types": "dist/src/index.d.ts",
@@ -17,6 +17,10 @@
     "hooks",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulijuan410/skeleton.git"
+  },
   "author": "hulijuan",
   "license": "ISC",
   "dependencies": {
