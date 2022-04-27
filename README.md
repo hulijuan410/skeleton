@@ -1,6 +1,6 @@
 # react-skeleton-component
 
-**react-skeleton-component**是基于[Typescript](https://www.typescriptlang.org)和[React Hooks](https://zh-hans.reactjs.org/docs/hooks-reference.html)，封装的一个骨架屏框架，在页面数据加载完成前，先给用户展示出页面的大致结构（占位图），在拿到接口数据渲染出实际页面内容之后替换掉，这样不会造成网页长时间白屏或者闪烁，优化用户体验。
+**react-skeleton-component**是基于[Typescript](https://www.typescriptlang.org)和[React Hooks](https://zh-hans.reactjs.org/docs/hooks-reference.html)封装的一个骨架屏组件，可在react项目中开箱即用。在页面数据加载完成前，先给用户展示出页面的大致结构（占位图），在拿到接口数据渲染出实际页面内容之后替换掉，这样不会造成网页长时间白屏或者闪烁，优化用户体验。
 
 ## 安装
 
