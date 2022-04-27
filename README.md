@@ -41,7 +41,7 @@ export default function App() {
 }
 ```
 react-skeleton-component组件有默认类名，设置了占位图的默认样式和动画效果，如果自带的效果不能满足需求的话，react-skeleton-component还有其他的一些可配置参数来满足不同的需求，具体看👇参数；
-## 都有哪些参数呢
+## 可配置参数
 - count: 可以展示几个占位图，number类型，默认为1；
 - width：占位图的宽度，number类型，默认为父元素宽度；
 - height：占位图的高度，number类型，默认为父元素高度；
